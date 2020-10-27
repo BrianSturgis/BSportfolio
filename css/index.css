@@ -12,15 +12,18 @@ body {
   border: 20px solid (black);
   display flex;
 }
+TEXT {
+  font-size: 25pt;
+}
 
 body, html {
-  background-color: #eee;
+  background-color: rgb(109, 107, 107);
   height: 90;
 }
 nav {
   width: 100;
   height: 100px;
-  background-color: #fff;
+  background-color: rgb(99, 97, 97);
 }
 ul {
 }
@@ -38,17 +41,17 @@ Ul li a {
   color: 11ee1e;
   padding: 0 35px;
 }
-/* div, footer{
+div, footer{
   text-align: center;
   text-align: center;
-	padding-top: 20px;
+	padding-top: 21px;
 	padding-bottom: 20px;
 	background-color: #717070;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 2px;
-	border-top-width: 2px; */
+	border-top-width: 2px;
 }
 Ul li a:hover {
   color: black;
