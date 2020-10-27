@@ -38,6 +38,7 @@ div, footer{
   text-align: center;
 }
 Ul li a:hover {
+  position: absolute;
   color: black;
   display: block;
   text-decoration: none;
@@ -46,7 +47,7 @@ Ul li a:hover {
   color: 11ee1e;
   padding: 0 40px;
 }
-.hero-image{
+/* /* .hero-image{
   height: 50%;
   width: 240px;
   margin-top: -30px;
@@ -56,6 +57,19 @@ Ul li a:hover {
   background-repeat: no-repeat;
   background-size: cover;
 	margin-left: -65px;
-  width: 104%;
-  background-image: url("./images/blm5.jpg");
-  
+  width: 104%; */
+  background-image: url("./images/blm5.jpg"); */
+
+/* .videoblock iframe {
+
+  position: center;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  height: 50%;
+  width: 100%; */
+
+
+}
+  }
