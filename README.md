@@ -16,12 +16,12 @@
 
 ## Setup/Installation Requirements
 
-- you will need a text editor of some kind as well as a browser even if hosting locally 
-- open by downloading
-- open via bash 
-- \_\_
-- \_\_
-
+* repository location (https://github.com/BrianSturgis/BSportfolio.git) _
+* open through a git termianl or clone editor.
+* got to repo location.
+* using git commands clone to local repo
+* or click "download" and unpack on machine
+* open the index.html file to view the website
 
 ## Known Bugs
 
