@@ -5,11 +5,9 @@
 #### By Brian Sturgis
 
 ## Git pages location
-
 - Copy and paste the following GitHub project link into your web browser's url bar and hit enter/return.  https://briansturgis.github.io/BSportfolio/
 
 ## Description
-
 - The application is a functional and reactive Website. It is made up of the following pages.
 - index: a landing page
 - projects: a location of links to past work
@@ -18,7 +16,6 @@
 
 
 ## Setup/Installation Requirements
-
 - repository location (https://github.com/BrianSturgis/BSportfolio)
 - open through a git termianl or clone editor.
 - got to repo location.
@@ -27,16 +24,13 @@
 - open the index.html file to view the website
 
 ## Known Bugs
-
 - This project was intitially on another .git in another repositry but was moved do to a commit deep in the history holding corrupt info.
 - the aboutme page resizes text when button hover happens on the navbar
 
 ## Support and contact details
-
 email Brian Sturgis @ <sturujisu@gmail.com>
 
 ## Technologies Used
-
 - HTML
 - CSS
 - Windows PC
